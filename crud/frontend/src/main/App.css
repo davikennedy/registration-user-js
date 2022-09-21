@@ -12,8 +12,8 @@ html, body {
 :root {
     --bg-dark: #1A2F3A;
 
-    --logo-height: 100px;
-    --header-height: 100px;
+    --logo-height: 64px;
+    --header-height: 64px;
     --aside-width: 225px;
     --footer-height: 40px;
 
