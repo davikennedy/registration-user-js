@@ -1,11 +1,14 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Kesia Amaral",
-        "email": "kesiaamaral@gmail.com"
-    }, {
-        "id": 2,
-        "name": "Iago Alves",
-        "email": "iagoalves@gmail.com"
-    }]
+  "users": [
+    {
+      "name": "Marcos Freitas",
+      "email": "marcos.freitas1@hotmail.com",
+      "id": 1
+    },
+    {
+      "name": "Rodrigo Gonzalez",
+      "email": "rodrigo.gonzalez@outlook.com",
+      "id": 2
+    }
+  ]
 }
